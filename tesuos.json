@@ -1382,7 +1382,7 @@
   ],
   "CULTURA-NOVELAS": [
     {
-      "longDescription": "HISTORY",
+      "longDescription": "HISTORY TEST",
       "thumbnail": "https://i.pinimg.com/736x/ce/f1/b0/cef1b08302e21f254415cbd71c2d02d6.jpg",
       "releaseDate": "",
       "genres": [
@@ -1399,7 +1399,7 @@
         "videos": [
           {
             "videoType": "AUTODETECT",
-            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/196",
+            "url": "https://zonamovie.live:8443/live/Tvmagica2/9DTgBtZMxV/577880.ts",
             "quality": "HD"
           }
         ],
