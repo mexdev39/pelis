@@ -1,0 +1,5516 @@
+{
+	"providerName": "MEXFRE",
+	"language": "en-US",
+	"lastUpdated": "2020-03-15T02:01:00+02:00",
+	"LOCALES": [
+    {
+      "longDescription": "LAS ESTRELLAS",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "LAS ESTRELLAS",
+      "title": "LAS ESTRELLAS",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/22",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "CANAL 5",
+      "thumbnail": "https://i.imgur.com/tHV3xDc.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://15.235.51.133:8081/LATINO%7CCANAL5R/LATINO%7CCANAL5R/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "CANAL 5",
+      "thumbnail": "https://i.imgur.com/tHV3xDc.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://54.39.105.146:8081/aeventos/.Qatar.C5/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+        {
+      "longDescription": "TELEMUNDO PR",
+      "thumbnail": "https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png",
+      "releaseDate": "2020-01-20",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "demo"
+      ],
+      "id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://54.39.105.146:8081/PR/TelemundoPR/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:10Z"
+      }
+     },
+        {
+      "longDescription": "TELEMUNDO MIAMI",
+      "thumbnail": "https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png",
+      "releaseDate": "2020-01-20",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "demo"
+      ],
+      "id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://54.39.105.146:8081/Eventos/Telemundo_Miami/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:10Z"
+      }
+     },
+    {
+      "longDescription": "AZTECA 7",
+      "thumbnail": "https://i.imgur.com/PYGgtGX.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "AZTECA 7",
+      "thumbnail": "https://i.imgur.com/PYGgtGX.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://15.235.51.133:8081/LATINO%7CAZTECA7/LATINO%7CAZTECA7/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "IMAGEN TV",
+      "thumbnail": "https://i.blogs.es/213596/imagen-tv-logo/1366_2000.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "IMAGEN TV",
+      "title": "IMAGEN TV",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "UNIVERSO",
+      "thumbnail": "http://servimx.com/wp-content/uploads/2024/05/UNIVERSO.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://54.39.105.146:8081/Eventos/Universo-SD/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "TELERITMO",
+      "thumbnail": "https://i2.paste.pics/650655e93128d58811d51cd25e5453d5.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "MEXIQUENSE TV",
+      "thumbnail": "https://i2.paste.pics/35f81059c6d91f6bd01a664ebc0c5aa2.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "TELEVISA PIEDRAS NEGRAS",
+      "thumbnail": "https://i.imgur.com/MNqBa1f.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "https://ythls.armelin.one/channel/UCxK8C1E8UZ5RipNXIBYEvTA.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "ADN 40",
+      "thumbnail": "https://i2.paste.pics/fb661547262e362a034610ad74c17441.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "Multimedios CDMX",
+      "thumbnail": "https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "Multimedios Guadalajara",
+      "thumbnail": "https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "CANAL",
+      "title": "CANAL",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "Multimedios Laguna",
+      "thumbnail": "https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "Multimedios Monterrey",
+      "thumbnail": "https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "CANAL 4 EL SALVADOR",
+      "thumbnail": "http://servimx.com/wp-content/uploads/2024/05/CANAL4.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://smarterstv99.dyndns.tv:25461/live/Nelsonxchange/rQzrsMj46j/3774.ts",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "UNIVISION LA",
+      "thumbnail": "https://eltiempolatino.com/wp-content/uploads/2023/11/41-99T82aZS.eprt_.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/CHILANGO%7CUNIVISIONLA/CHILANGO%7CUNIVISIONLA/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "UNIVISION SAN FRANCISCO",
+      "thumbnail": "https://eltiempolatino.com/wp-content/uploads/2023/11/41-99T82aZS.eprt_.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/CHILANGO%7CUNIVISIONSANFRAN/CHILANGO%7CUNIVISIONSANFRAN/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "UNIMAS LA",
+      "thumbnail": "https://images.squarespace-cdn.com/content/v1/5ed054a9667c0a7510b5c721/1675939393419-58OS3E7PYM7KYZA137GB/unimas_logo.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/CHILANGO%7CUSAUNIMASLA/CHILANGO%7CUSAUNIMASLA/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "UNIMAS MIAMI",
+      "thumbnail": "https://images.squarespace-cdn.com/content/v1/5ed054a9667c0a7510b5c721/1675939393419-58OS3E7PYM7KYZA137GB/unimas_logo.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/CHILANGO%7CUSAUNIMASMIAMI/CHILANGO%7CUSAUNIMASMIAMI/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "UNIMAS NY",
+      "thumbnail": "https://images.squarespace-cdn.com/content/v1/5ed054a9667c0a7510b5c721/1675939393419-58OS3E7PYM7KYZA137GB/unimas_logo.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/CHILANGO%7CUSAUNIMASNY/CHILANGO%7CUSAUNIMASNY/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "GALAVISION",
+      "thumbnail": "https://logowik.com/content/uploads/images/galavision-new-20243067.logowik.com.webp",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/CHILANGO%7CGALAVISION/CHILANGO%7CGALAVISION/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "GALAVISION ATLANTA",
+      "thumbnail": "https://logowik.com/content/uploads/images/galavision-new-20243067.logowik.com.webp",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/CHILANGO%7CGALAVISIONATLANTA/CHILANGO%7CGALAVISIONATLANTA/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "GALAVISION LAS VEGAS",
+      "thumbnail": "https://logowik.com/content/uploads/images/galavision-new-20243067.logowik.com.webp",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/CHILANGO%7CGALAVISIONLASVEGAS/CHILANGO%7CGALAVISIONLASVEGAS/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "AZTECA UNO",
+      "thumbnail": "https://i.imgur.com/UCGlyST.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "feature"
+      ],
+      "id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
+      "shortDescription": "AZTECA UNO",
+      "title": "AZTECA UNO",
+      "content": {
+        "duration": 98,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+     "ENTRETENIMIENTO": [
+    {
+      "longDescription": "DISTRITO COMEDIA",
+      "thumbnail": "https://conexion360.mx/wp-content/uploads/2017/06/FOTO-WEB-DISTRITO-COMEDIA-1.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://15.235.51.133:8081/LATINO%7CDISTRITOCOMEDIACH/LATINO%7CDISTRITOCOMEDIACH/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "A&E",
+      "thumbnail": "https://laguia.tv/_nuxt/img/AandE_256.44dc66b.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://live.detodotvplay.com:8080/xfbRaQUObq/7yhJBrgpT7/1",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "COMEDY CENTRAL",
+      "thumbnail": "https://1.bp.blogspot.com/-EGNc3XiW2mg/Xaoka4Z2TQI/AAAAAAAAAWU/WzeyBpAFtHw2hkqTpQi6FZCazB0eVIlHACLcBGAsYHQ/s200/7.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/217",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "STAR CHANNEL",
+      "thumbnail": "https://i.pinimg.com/564x/bb/50/99/bb50999fb2860f8760ef4b22ef8bf09e.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/RENATO%7CLATINOSTARCHANNEL/RENATO%7CLATINOSTARCHANNEL/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "STAR CHANNEL",
+      "thumbnail": "https://i.imgur.com/LhFN2fA.jpg?1",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/257",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "DE PELICULA",
+      "thumbnail": "https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://live.detodotvplay.com:8080/xfbRaQUObq/7yhJBrgpT7/19",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "DE PELICULA CLASICO",
+      "thumbnail": "https://allvectorlogo.com/img/2016/07/de-pelicula-clasico-logo.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://15.235.51.133:8081/LATINO%7CDEPELICULA/LATINO%7CDEPELICULA/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "DE PELICULA PLUS",
+      "thumbnail": "https://live.staticflickr.com/871/40587920114_afa303deb7_w.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://live.detodotvplay.com:8080/xfbRaQUObq/7yhJBrgpT7/9586",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "PARAMOUNT",
+      "thumbnail": "https://images.sftcdn.net/images/t_app-icon-m/p/4654551c-a4e9-11e6-925b-00163ec9f5fa/3676481634/paramount-channel-logo.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://xcm.budtv-ultra.com:25461/live/rafanewl/t37DDpJuwD5j/159252.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "AMC EN ESPAÑOL",
+      "thumbnail": "https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2002.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "AMC",
+      "thumbnail": "https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2002.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/223",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "GOLDEN",
+      "thumbnail": "https://logos.xbots.com.mx/124.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/238",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "GOLDEN PLUS",
+      "thumbnail": "https://www.nicepng.com/png/detail/434-4344309_golden-plus-golden-plus-logo-png.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/239",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "GOLDEN PREMIER",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPjm1Hr7OabaULLiNgJzeyAb-VQ2cfBa9lMGkE1NSwqpN4PyFVVSOGhiCq8D7igLNPn3xL3y-cxYF8yKJBW8YsE3icHUBM0aUETPj3Bercfwu3LZIa4NPSBne4m2j5wMT9riADgymTFyZL67ZEafDGxNEYZAJBxsdh2lLkYY5j6WVr5-x2WoKtoNGB/s1000/Golden_Premier_logo_2020.webp",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://live.detodotvplay.com:8080/xfbRaQUObq/7yhJBrgpT7/89728",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "CINEMAX",
+      "thumbnail": "https://logowik.com/content/uploads/images/cinemax-yellow7289.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://15.235.51.133:8081/LATINO%7CCINEMAXR/LATINO%7CCINEMAXR/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "SONY CINE",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "SONY CHANNEL",
+      "thumbnail": "https://servimx.com/new/canales/Sony_Channel_Logo.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/RENATO%7CLATSONYCHANNEL/RENATO%7CLATSONYCHANNEL/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "FX",
+      "thumbnail": "https://cdn.mitvstatic.com/channels/mx_fx_m.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://15.235.51.133:8081/LATINO%7CFX/LATINO%7CFX/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "TNT SERIES",
+      "thumbnail": "https://www.poblanerias.com/wp-content/archivos/2015/03/TNT_Serie-1021x580.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/389",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "TNT",
+      "thumbnail": "https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://live.detodotvplay.com:8080/xfbRaQUObq/7yhJBrgpT7/222",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "AXN",
+      "thumbnail": "https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/224",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "STUDIO UNIVERSAL",
+      "thumbnail": "https://1.bp.blogspot.com/-Mm4RcdZlydc/XatpNZ2eSDI/AAAAAAAAAek/B1kOZW_TEv0GakL-m6tUYEmi592FBiSEQCLcBGAsYHQ/s200/52.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://alfatv.lat:2082/bLsdZn25dSq9/NkQCDzwNCB8F/239586",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "PANICO",
+      "thumbnail": "https://i.imgur.com/efQ9svX.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/252",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "SPACE",
+      "thumbnail": "https://laguia.tv/_nuxt/img/Space_256.7daea90.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/256",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "UNIVERSAL TV",
+      "thumbnail": "https://i.imgur.com/Q22tDpx.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/270",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "WARNER",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "feature"
+      ],
+      "id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 98,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://alfatv.lat:2082/bLsdZn25dSq9/NkQCDzwNCB8F/235799",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "CULTURA-NOVELAS": [
+    {
+      "longDescription": "HISTORY",
+      "thumbnail": "https://i.pinimg.com/736x/ce/f1/b0/cef1b08302e21f254415cbd71c2d02d6.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/196",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "HISTORY 2",
+      "thumbnail": "https://www.wightman.ca/wp-content/uploads/2023/03/H2_3D_transparent.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://15.235.51.133:8081/LATINO%7CH2R/LATINO%7CH2R/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "DISCOVERY ID",
+      "thumbnail": "https://i.imgur.com/v9PK7fg.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/189",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "DISCOVERY",
+      "thumbnail": "https://i.imgur.com/GampiTU.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/RENATO%7CLATDISCOVERYCHANNEL/RENATO%7CLATDISCOVERYCHANNEL/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "ANIMAL PLANET",
+      "thumbnail": "https://1.bp.blogspot.com/-FmcbBWBcW04/XzWYaAuXQeI/AAAAAAAABCE/Sxqhgw-oCiEDD8qSiWZZnw_c9BVKOKFVwCLcBGAsYHQ/w200-h200/153%2BAnimal%2BPlanet.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/331",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "Discovery Home & Healt",
+      "thumbnail": "https://1.bp.blogspot.com/-795qtfdAvTU/XaukceRJkUI/AAAAAAAAAfg/7NrIFGl6jvIpQHoLxcjGda1mAhZ8yRZAQCLcBGAsYHQ/s200/11.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/188",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "TLC",
+      "thumbnail": "https://cdn.tvpassport.com/image/station/240x135/tlc.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/202",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "UNICABLE",
+      "thumbnail": "https://1.bp.blogspot.com/-R4850qWMRRM/Xz8-484rEaI/AAAAAAAABK0/gZWnuvKx8ss-Gdc8vGOdQY0PlY8-hVr3wCLcBGAsYHQ/w200-h200/8%2BUnicable.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/203",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "PASIONES",
+      "thumbnail": "https://logowik.com/content/uploads/images/pasiones-tv1683.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://15.235.51.133:8081/LATINO%7CPASIONESR/LATINO%7CPASIONESR/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "AZTECA CORAZON",
+      "thumbnail": "https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4876",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "TLNOVELAS",
+      "thumbnail": "https://iconape.com/wp-content/files/zy/285007/png/285007.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/CHILANGO%7CTLNOVELAS/CHILANGO%7CTLNOVELAS/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "UNIMAS",
+      "thumbnail": "https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "feature"
+      ],
+      "id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 98,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/CHILANGO%7CUSAUNIMASLA/CHILANGO%7CUSAUNIMASLA/playlist.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "NIÑOS": [
+    {
+      "longDescription": "CARTOON NETWORK",
+      "thumbnail": "https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/RENATO%7CLATCARTOONETWORK/RENATO%7CLATCARTOONETWORK_480p/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "CARTOONITO",
+      "thumbnail": "https://iconape.com/wp-content/files/cu/193260/png/193260.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://15.235.51.133:8081/LATINO%7CCARTOONITOR/LATINO%7CCARTOONITOR/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "DISNEY",
+      "thumbnail": "https://i.pinimg.com/736x/fa/15/f5/fa15f5faf71fbbed5ecc606b05a69279.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://live.detodotvplay.com:8080/xfbRaQUObq/7yhJBrgpT7/28",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "TOONCAST",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH3TIR79bC9QorFGZDYCZBZ_eFB1G_gAuq_2K_bPT1c3piOgDUeLBMdoJWhVrWSCGYFJ2Wdu7eLnEoOBj00AHaRJKIcRz1zrreeurN1Sl-jhDdtUBdsQ90fjicFIkkyNmbtM54XUzlFmY/s1600/tooncast-logo-2015.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://live.detodotvplay.com:8080/xfbRaQUObq/7yhJBrgpT7/224",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "DISCOVERY KIDS",
+      "thumbnail": "https://www.aventurasnerd.com/wp-content/uploads/2021/06/Discovery-Kids.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://smarterstv99.dyndns.tv:25461/live/Z3USHD2023/40niale3...xd47xc22/40783.ts",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "DISNEY JR",
+      "thumbnail": "https://i.imgur.com/22K5s7B.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/352",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "BITME",
+      "thumbnail": "https://panel.budtv-ultra.com/posters/1684892321386.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/218",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "NICKELODEON",
+      "thumbnail": "https://www.martevisual.com/wp-content/uploads/2022/07/YG-NICK-logo.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "feature"
+      ],
+      "id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 98,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://flx.lat:8080/live/Kiyomasa54/5432176547tv/120293.ts",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "24/7": [
+    {
+      "longDescription": "NETFLIX",
+      "thumbnail": "https://servimx.com/new/247.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://144.126.128.147:80/canales247/YHI90msjYB/1261.ts",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "STAR",
+      "thumbnail": "https://servimx.com/new/247.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://144.126.128.147:80/canales247/YHI90msjYB/1263.ts",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "PRIME",
+      "thumbnail": "https://servimx.com/new/247.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://144.126.128.147:80/canales247/YHI90msjYB/1264.ts",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "MI POBRE ANGELITO",
+      "thumbnail": "https://servimx.com/new/247.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://144.126.128.147:80/canales247/YHI90msjYB/1404.ts",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "VOLVER AL FUTURO",
+      "thumbnail": "https://servimx.com/new/247.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://144.126.128.147/live/Zonatv-24-7/d4v1d-2028/3009.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "CINE MEXICANO",
+      "thumbnail": "https://servimx.com/new/247.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://144.126.128.147/live/Zonatv-24-7/d4v1d-2028/3886.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "CINE DE ORO MEXICANO",
+      "thumbnail": "https://servimx.com/new/247.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://144.126.128.147/live/Zonatv-24-7/d4v1d-2028/3885.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "FRIENDS",
+      "thumbnail": "https://i.pinimg.com/originals/5c/1a/5d/5c1a5dabbeca64fb0defceb97ffce1ad.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://144.126.128.147/Zonatv-24-7/d4v1d-2028/3603.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "DRAGON BALL z",
+      "thumbnail": "https://i.postimg.cc/Dzntck27/24y7.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://144.126.128.147/Zonatv-24-7/d4v1d-2028/3606.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "CHAPULIN COLORADO",
+      "thumbnail": "https://vecindadch.com/wp-content/uploads/2007/07/novedad-chapulin.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/413",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "MALCOLM",
+      "thumbnail": "https://vanguardia.com.mx/binrepository/1152x750/0c51/1152d648/down-right/11604/IPUD/malcolm-in-the-middle_VG2623393_MG5864492.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "https://sdmex.org:443/rhin0xCPwow/yXtqbNNtmzaqU/2091027",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "LOS SIMPSONS",
+      "thumbnail": "https://i.postimg.cc/Jh29MK60/url-https-cherry-brightspot-s3-amazonaws-com-media-2009-12-16-simpson.webp",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://15.235.51.133:8081/247%7CSIMPSONS/247%7CSIMPSONS/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "LOS SIMPSONS OPC2",
+      "thumbnail": "https://i.postimg.cc/Jh29MK60/url-https-cherry-brightspot-s3-amazonaws-com-media-2009-12-16-simpson.webp",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://144.126.128.147/live/Zonatv-24-7/d4v1d-2028/3605.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "THE BIG BANG THEORY",
+      "thumbnail": "https://i.postimg.cc/wM3sKqGn/Los-10-mejores-episodios-de-The-Big-Bang-Theory.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/404",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "CHAVO DEL 8",
+      "thumbnail": "https://imgmedia.larepublica.pe/640x371/larepublica/original/2023/03/26/642101977e55a5095f5810cb.webp",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://mundorestream.com/CLASICOTV2/rxYYe5P87e/87719.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "PEDRO INFANTE",
+      "thumbnail": "https://www.procine.cdmx.gob.mx/storage/app/uploads/public/661/d4d/03d/661d4d03dfe4b675174397.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://144.126.128.147/Zonatv-24-7/d4v1d-2028/3610.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "CANTINFLAS OPC1",
+      "thumbnail": "https://img.maspormas.com/2016/04/CX5o6blWMAAdB4b.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://144.126.128.147/live/Zonatv-24-7/d4v1d-2028/3611.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "CANTINFLAS OPC2",
+      "thumbnail": "https://img.maspormas.com/2016/04/CX5o6blWMAAdB4b.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/407",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "CINEMA DISNEY",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://smarterstv99.dyndns.tv:25461/live/Nelsonxchange/rQzrsMj46j/13286.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "South Park",
+      "thumbnail": "https://variety.com/wp-content/uploads/2021/04/South-Park-Key-Art-2.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/441",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "Stranger Things",
+      "thumbnail": "https://sm.ign.com/ign_latam/screenshot/default/stranger-things-4-poster_rp5m.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/443",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "SUPER CAMPEONES",
+      "thumbnail": "https://servimx.com/new/247.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://144.126.128.147/live/Zonatv-24-7/d4v1d-2028/3882.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "PEPPA PIG",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0899/1470/files/banner-family-hub-peppa-pig_9eeeded8-532c-415d-b536-65277db33261.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://smarterstv99.dyndns.tv:25461/live/Nelsonxchange/rQzrsMj46j/37025.ts",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "LOS PICAPIEDRAS",
+      "thumbnail": "https://www.mundiario.com/asset/thumbnail,1280,720,center,center/media/cineseries/images/2023/06/14/2023061410362238927.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "feature"
+      ],
+      "id": "",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 98,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://smarterstv99.dyndns.tv:25461/live/Nelsonxchange/rQzrsMj46j/37018.ts",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+    "FUTBOL": [
+    {
+      "longDescription": "MLS ALL-STAR SKILLS CHALLENG",
+      "thumbnail": "https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "",
+      "shortDescription": "",
+      "title": "MLS ALL-STAR SKILLS CHALLENG",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://ares-tv.com:80/live/test/test/112898.ts",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "MLS ALL-STARS VS. LIGA MX ALL-STARS",
+      "thumbnail": "https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "feature"
+      ],
+      "id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
+      "shortDescription": "MLS ALL-STARS VS. LIGA MX ALL-STARS",
+      "title": "",
+      "content": {
+        "duration": 98,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://ares-tv.com:80/live/test/test/112899.ts",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+    "LA CASA DE LOS FAMOSOS": [
+    {
+      "longDescription": "LA CASA DE LOS FAMOSOS 1",
+      "thumbnail": "https://laopinion.com/wp-content/uploads/sites/3/2021/07/lacasadelosfamosos-telemundo-logo.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "",
+      "shortDescription": "",
+      "title": "LA CASA DE LOS FAMOSOS 1",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://144.126.128.147:80/canales247/YHI90msjYB/3014.ts",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "LA CASA DE LOS FAMOSOS 2",
+      "thumbnail": "https://laopinion.com/wp-content/uploads/sites/3/2021/07/lacasadelosfamosos-telemundo-logo.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "",
+      "shortDescription": "",
+      "title": "LA CASA DE LOS FAMOSOS 2",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://144.126.128.147:80/canales247/YHI90msjYB/3015.ts",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "LA CASA DE LOS FAMOSOS 3",
+      "thumbnail": "https://laopinion.com/wp-content/uploads/sites/3/2021/07/lacasadelosfamosos-telemundo-logo.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "",
+      "shortDescription": "",
+      "title": "LA CASA DE LOS FAMOSOS 3",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://144.126.128.147:80/canales247/YHI90msjYB/3016.ts",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "LA CASA DE LOS FAMOSOS 4",
+      "thumbnail": "https://laopinion.com/wp-content/uploads/sites/3/2021/07/lacasadelosfamosos-telemundo-logo.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "feature"
+      ],
+      "id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
+      "shortDescription": "LA CASA DE LOS FAMOSOS 4",
+      "title": "",
+      "content": {
+        "duration": 98,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://144.126.128.147:80/canales247/YHI90msjYB/3017.ts",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+    "DEPORTES": [
+    {
+      "longDescription": "CLARO SPORTS 01",
+      "thumbnail": "https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://51.161.118.229:8081/NBA/NBA_01/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "CLARO SPORTS 02",
+      "thumbnail": "https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://51.161.118.229:8081/NBA/NBA_02/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "CLARO SPORTS 03",
+      "thumbnail": "https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://51.161.118.229:8081/NBA/NBA_03/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "CLARO SPORTS 04",
+      "thumbnail": "https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://51.161.118.229:8081/NBA/NBA_04/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "FOX DEPORTES",
+      "thumbnail": "https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://51.222.47.185:8081/eventos/Fox_Deportes-HD/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "FOX SPORTS MX",
+      "thumbnail": "https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/1504",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "FOX SPORTS 2 MX",
+      "thumbnail": "https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://51.222.47.185:8081/Play/Fox_Sports2-HQ/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "FOX SPORTS 3 MX",
+      "thumbnail": "https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://51.222.47.185:8081/Play/Fox_Sports3-HQ/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "FOX SPORTS PREMIUM MX",
+      "thumbnail": "https://1.bp.blogspot.com/-bhtO7GVOw3k/X2QH8tp0RQI/AAAAAAAABU0/QyJnQgmqjxsZobT_cvMPJ9FwthC8UAvuQCLcBGAsYHQ/w200-h200/05%2BFox%2BSports%2BPremium%2Barg.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://54.39.105.146:8081/eventos/Fox_Sports_Premium/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "FOX SPORTS PREMIUM MX",
+      "thumbnail": "https://1.bp.blogspot.com/-bhtO7GVOw3k/X2QH8tp0RQI/AAAAAAAABU0/QyJnQgmqjxsZobT_cvMPJ9FwthC8UAvuQCLcBGAsYHQ/w200-h200/05%2BFox%2BSports%2BPremium%2Barg.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://51.222.47.185:8081/Play/Fox_Sports_Premium-HQ/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "FOX SPORTS PREMIUM",
+      "thumbnail": "https://i.imgur.com/wodXPrX.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/1515",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "TUDN MX",
+      "thumbnail": "https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://51.161.118.229:8081/aeventos/.Qatar.TUDN/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "TUDN USA",
+      "thumbnail": "https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/live/t6rjfpunq8/2xxzgnw3he/1556.ts",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "ESPN DEPORTES",
+      "thumbnail": "https://1.bp.blogspot.com/-vSV4gemywH8/Xay_akC3pjI/AAAAAAAAAkk/QhiScGYRuK0gmoHsOkqUAy5v1AijHvCwgCLcBGAsYHQ/s200/9.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://51.161.118.229:8081/eventos/ESPN_Deportes-SD/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "ESPN DEPORTES",
+      "thumbnail": "https://1.bp.blogspot.com/-vSV4gemywH8/Xay_akC3pjI/AAAAAAAAAkk/QhiScGYRuK0gmoHsOkqUAy5v1AijHvCwgCLcBGAsYHQ/s200/9.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://51.222.47.185:8081/Eventos/ESPN_Deportes-TVPLay/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "ESPN MX",
+      "thumbnail": "https://i.imgur.com/3RcXrhY.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/1496",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "ESPN 2 MX",
+      "thumbnail": "https://i.imgur.com/jAUUZOm.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/1479",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "ESPN 3 MX",
+      "thumbnail": "https://i.imgur.com/nLNQL7u.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/1484",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "ESPN 3 MX",
+      "thumbnail": "https://i.imgur.com/nLNQL7u.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://51.222.47.185:8081/Play/ESPN3-HQ/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "DAZN F1",
+      "thumbnail": "http://servimx.com/wp-content/uploads/2024/05/daznproyectox.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://51.222.47.185:8081/eventos/DAZN-F1/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "DAZN 1",
+      "thumbnail": "https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/RENATO%7CDAZN1/RENATO%7CDAZN1/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "DAZN 2",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tv-channel-%E2%94%82-dazn-2.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/RENATO%7CDAZN2/RENATO%7CDAZN2/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "MLB",
+      "thumbnail": "https://www.pngall.com/wp-content/uploads/13/MLB-Logo-PNG-Images.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://54.39.105.146:8081/Eventos/MLB-SD/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "NBA",
+      "thumbnail": "https://www.Sportsmediawatch.com/wp-content/uploads/2017/07/nba-logo.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://54.39.105.146:8081/Eventos/NBA_TV-SD/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "SKY SPORTS F1",
+      "thumbnail": "https://archive.org/download/SkySportsF1New_201708/sky%20sports%20f1%20new.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://51.222.47.185:8081/Eventos/Formula1_Sky-SD/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "ESPN ARG",
+      "thumbnail": "https://i.postimg.cc/KvFR3FLr/espn.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://15.235.51.133:8081/ARGENTINA%7CESPNR/ARGENTINA%7CESPNR/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "ESPN 2 SUR",
+      "thumbnail": "https://i.postimg.cc/v82q167s/ESPN2.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://alfatv.lat:2082/bLsdZn25dSq9/NkQCDzwNCB8F/269456",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "ESPN CHILE",
+      "thumbnail": "https://i.postimg.cc/KvFR3FLr/espn.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/RENATO%7CCHILESPN/RENATO%7CCHILESPN/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "DIRECTV SPORTS PLUS",
+      "thumbnail": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/4e/22/03/4e22035c-a29b-4f4e-9382-1f68860ec97e/source/512x512bb.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://smarterstv99.dyndns.tv:25461/live/Z3USHD2023/40niale3...xd47xc22/247285.ts",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "WAPA DEPORTES",
+      "thumbnail": "https://internewsservice.com/wp-content/uploads/2022/10/LOGO-WAPA-DEPORTES-02-INS.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "WAPA DEPORTES",
+      "title": "WAPA DEPORTES",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "https://live.field59.com/wapa/wapa2/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "CLARO SPORTS",
+      "thumbnail": "https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "CLARO SPORTS",
+      "title": "CLARO SPORTS",
+      "content": {
+        "duration": 248,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "ITV DEPORTES",
+      "thumbnail": "https://iili.io/J1kV1Bn.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "SKY SPORTS 16 MX",
+      "thumbnail": "https://i.imgur.com/hOJOoM7.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/1527",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "TYC SPORTS",
+      "thumbnail": "https://cdn.eldestapeweb.com/eldestape/102023/1697634872025/tyc-sports-papelon-en-vivo-tv-furia-hinchas-seleccion-argentina-jpg..jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "feature"
+      ],
+      "id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 98,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/1563",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+	"peliculas": [{
+			"id": "peliculas_1_tips",
+			"title": "RECIEN AGREGADAS",
+			"releaseDate": "00",
+			"shortDescription": "LOS MEJORES ESTRENOS",
+			"thumbnail": "https://png.pngtree.com/png-vector/20220519/ourmid/pngtree-movie-premiere-show-or-cinema-with-camera-png-image_4670864.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": [{
+					"title": "RECIEN AGREGADO",
+					"episodes": [
+						{
+							"id": "",
+							"title": "DEADPOOL Y WOLVERINE SUB CAM",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "http://mstrtv.com:25461/movie/Star2/1b2fdadba91610e2ce8d8e3a908dc26a/222081.mkv",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://www.infobae.com/new-resizer/Zq227nOmsISA9xjcCSjq91KEJws=/arc-anglerfish-arc2-prod-infobae/public/QYUVGM2RSNFDTFAEEEC6CLB66Y.jpg",
+							"shortDescription": "DEADPOOL Y WOLVERINE SUB CAM",
+							"releaseDate": "2024",
+							"longDescription": "Tercera entrega de la saga",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "UN DETECTIVE SUELTO EN HOLLYWOOD: AXEL F",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2222661.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1pj4Y6.img",
+							"shortDescription": "UN DETECTIVE SUELTO EN HOLLYWOOD: AXEL F",
+							"releaseDate": "2024",
+							"longDescription": "Cuatro décadas después de su inolvidable primer caso en Beverly Hills, el detective de Detroit Axel Foley vuelve a lo que mejor se le da: resolver crímenes y sembrar el caos.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "LIGA DE LA JUSTICIA: CRISIS EN TIERRAS INFINITAS PARTE 3",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2226530.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXeeV5YrACBgc9CGvggdsA6PEmd.jpg",
+							"shortDescription": "LIGA DE LA JUSTICIA: CRISIS EN TIERRAS INFINITAS PARTE 3",
+							"releaseDate": "2024",
+							"longDescription": "Ahora plenamente revelado como la máxima amenaza a la existencia, el Anti-Monitor emprende un ataque implacable contra las Tierras supervivientes que luchan por sobrevivir en un universo de bolsillo. ¡Uno a uno, estos mundos y todos sus habitantes se vaporizan! En los planetas que quedan, incluso el tiempo mismo se hace añicos, y los héroes del pasado se unen a la Liga de la Justicia y sus heterogéneos aliados contra el epítome del mal.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "LA MONJA MALA 3",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2222346.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://images.vix.com/prd/videos/video:mcp:4554660/d7ab6b2ea523439287de99901a958b4a?tr=w-1200,h-627,f-jpeg",
+							"shortDescription": "LA MONJA MALA 3",
+							"releaseDate": "2024",
+							"longDescription": "Cuando una joven traumatizada de un grupo de asesoramiento sobre el duelo muere repentinamente, un trío de amigos del grupo deciden descubrir qué pasó realmente.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "PINCELADAS DE AMOR",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2221740.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://media.revistagq.com/photos/662a2880c2902f751ee6a3a2/16:9/w_1280,c_limit/pinceladas-de-amor-netflix.jpg",
+							"shortDescription": "PINCELADAS DE AMOR",
+							"releaseDate": "2024",
+							"longDescription": "Akito, un adolescente al que solo le queda un año de vida, le encuentra un nuevo significado a su existencia: llenar de felicidad los últimos seis meses de una enferma terminal.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "FURIOSA: DE LA SAGA MAD MAX",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2220727.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://somosnena.com/wp-content/uploads/2024/06/furiosa-1024x576.png",
+							"shortDescription": "FURIOSA: DE LA SAGA MAD MAX",
+							"releaseDate": "2024",
+							"longDescription": "En un mundo postapocalíptico donde todo ha perdido su valor, los pocos supervivientes se guían por la ley del más fuerte. Sin aprecio por la vida, lo único que despierta un brutal interés es la gasolina, sinónimo de poder y objetivo de bandas armadas hasta los dientes y sin escrúpulos. En este contexto conoceremos la historia de la arrebatadoramente despiadada, salvaje y joven Furiosa, quien cae en manos de una horda de motoristas y debe sobrevivir a muchas pruebas mientras reúne los medios para encontrar el camino de vuelta a casa.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "FABRICANTE DE LÁGRIMAS",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2210692.mkv",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://editorialtelevisa.brightspotcdn.com/dims4/default/99ae0fa/2147483647/strip/false/crop/1200x672+0+0/resize/1200x672!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2Ffe%2F9e7ab1394508a31605508d2884ba%2Fdiferencias-libro-serie-fabricante-de-lagrimas.jpg",
+							"shortDescription": "FABRICANTE DE LÁGRIMAS",
+							"releaseDate": "2024",
+							"longDescription": "Adoptados juntos tras pasar una infancia difícil en un orfanato, Nica y Rigel se dan cuenta de que están unidos por unos sentimientos inesperados... e irrefrenables.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+                                                  {
+							"id": "",
+							"title": "El planeta de los simios: Nuevo reino",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "http://cont.axstv.xyz/pelis2024/espanol/Kingdom_Of_The_Planet_of_The_Apes_2024.mkv",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.tmdb.org/t/p/original/iHYh4cdO8ylA3W0dUxTDVdyJ5G9.jpg",
+							"shortDescription": "El planeta de los simios: Nuevo reino",
+							"releaseDate": "2024",
+							"longDescription": "300 años después del reinado de César, un nuevo líder tiránico construye su imperio esclavizando a otros clanes de primates, un joven simio llamado Noa emprende un viaje desgarrador que lo hará cuestionar todo lo que sabía sobre el pasado y tomar decisiones que definirán el futuro tanto de simios como humanos.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "INTENSAMENTE 2",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2219406.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://files.merca20.com/uploads/2024/05/INTENSAMENTE-2.jpg",
+							"shortDescription": "",
+							"releaseDate": "2024",
+							"longDescription": "Vuelve a la mente de Riley, quien acaba de convertirse en adolescente, en el momento en que la Central se enfrenta a una reforma para hacer sitio a algo completamente inesperado: ¡nuevas Emociones! Alegría, Tristeza, Ira, Miedo y Asco, que llevan muchos años al mando de una operación exitosa, no saben muy bien qué sentir cuando aparece Ansiedad, que además no ha llegado sola. Se ha traído a Vergüenza, Envidia y Ennui.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "GARFIELD: FUERA DE CASA",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2215084.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://i0.wp.com/celebriteen.com.mx/wp-content/uploads/2024/03/GarfieldFueraDeCasa.jpg",
+							"shortDescription": "",
+							"releaseDate": "2024",
+							"longDescription": "El mundialmente famoso Garfield, el gato casero que odia los lunes y que adora la lasaña, está a punto de vivir una aventura ¡en el salvaje mundo exterior! Tras una inesperada reunión con su largamente perdido padre – el desaliñado gato callejero Vic – Garfield y su amigo canino Odie se ven forzados a abandonar sus perfectas y consentidas vidas al unirse a Vic en un hilarante y muy arriesgado atraco.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "HÉROE POR ENCARGO",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2210661.mkv",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://revistabombea.com/wp-content/uploads/2024/03/FREELANCE_1080X1080-660x330.jpg",
+							"shortDescription": "HÉROE POR ENCARGO",
+							"releaseDate": "2024",
+							"longDescription": "Mason Petit (John Cena) es un soldado retirado de las fuerzas especiales que, tras años de paz, tranquilidad y monotonía, decide abandonar su aburrido retiro en los suburbios para volver al trabajo y proteger a la periodista (Alison Brie) mientras entrevista a un cruel dictador (Juan Pablo Raba). En mitad de la entrevista, estallará un golpe militar que hará peligrar sus vidas y les llevará a esconderse en la selva donde deberán emplearse a fondo para sobrevivir.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "FIRMA AQUI",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2220796.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://i.ytimg.com/vi/z1WbiFigxQs/maxresdefault.jpg",
+							"shortDescription": "",
+							"releaseDate": "2024",
+							"longDescription": "En este mundo ya se dio cuenta de que amar para siempre es imposible. Por eso existe una empresa que encuentra el amor perfecto cada cuatro años. Tras pasar unos días de descanso, Fran conoce a Roque, quien enseguida comienza a conquistar su corazón a pesar de no entenderse al principio. Pero a medida que pasa el tiempo, aprenden a conocerse y Fran experimenta una sensación que nunca antes había sentido. ¿Sería trágico si decidieran permanecer juntos por más de 4 años?",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "BAD BOYS: RIDE OR DIE",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2219092.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://cmsapi-uae.novocinemas.com/Files//Movie/997x498/bad-boys-movie-uae.jpg",
+							"shortDescription": "",
+							"releaseDate": "2024",
+							"longDescription": "Tras escuchar falsas acusaciones sobre su excapitán y mentor Mike y Marcus deciden investigar el asunto incluso volverse los más buscados de ser necesarios",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "LA FAMILIA DEL BARRIO: LA PELÍCULA",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2221712.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2022/08/24/2065166915914/MTLN_LAFAMILIADELBARRIO_312_1601234_1920x1080.jpg",
+							"shortDescription": "",
+							"releaseDate": "2024",
+							"longDescription": "Todo marcha bien hasa que 'El Noruego', compra una máquina del tiempo y accidentalmente, cambia el rumbo de la historia de México. Ahora depende de toda familia el viajar al pasado y reparar el daño antes de que sea demasiado tarde.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "En las Profundidades del Sena",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "http://gpelis22.galaxytv.mx/ntv/PelisJuan/Jun24/7/8151.Under.Paris.2024.1080p.WEBRip.Dual.Latino.mkv",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://cineypalomitas.com/wp-content/uploads/2024/06/en-las-profundidades-del-sena.jpg",
+							"shortDescription": "En las Profundidades del Sena",
+							"releaseDate": "2024",
+							"longDescription": "Para salvar París de un baño de sangre internacional, una científica en duelo se ve obligada a enfrentarse a su trágico pasado cuando un tiburón gigante aparece en el Sena.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "ESTRENOS 2024",
+					"episodes": [
+						{
+							"id": "",
+							"title": "Canta y no llores",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "http://gpelis22.galaxytv.mx/ntv/PelisJuan/Jun24/36/17685.Canta.y.no.llores.2024.1080p.WEBRip_2.mkv",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://www.cinespoilersmexico.com/web/image/8750-5f67ab18/Captura%20de%20Pantalla%202024-01-26%20a%20la%28s%29%2012.58.31.png",
+							"shortDescription": "Canta y no llores",
+							"releaseDate": "2024",
+							"longDescription": "Una familia matriarcal dirige un camión de comida de tacos, navegando entre aspiraciones artísticas y frustraciones diarias mientras cría a la hija de un miembro.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "Bob Marley One Love",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "http://gpelis22.galaxytv.mx/ntv/PelisJuan/Mar24/20/4459.Bob.Marley.One.Love.2024.1080p.WEBRip.Dual.Latino.mkv",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://thelittlehoya.org/wp-content/uploads/2024/04/image-5.jpeg",
+							"shortDescription": "Bob Marley One Love",
+							"releaseDate": "2024",
+							"longDescription": "Biopic sobre Bob Marley dirigido por Reinaldo Marcus Green (El método Williams) . Un tributo a la que ha sido la mayor leyenda del reggae y que falleció con tan solo 36 años, a causa de un cáncer de piel, en 1981.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "Back to Black",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "http://gpelis22.galaxytv.mx/ntv/PelisJuan/Jun24/7/4891.Back.to.Black.2024.1080p.WEBRip.Dual.Latino.mkv",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://cinescopia.com/wp-content/uploads/2024/04/2401-back-to-black-poster.990x660.jpg",
+							"shortDescription": "Back to Black",
+							"releaseDate": "2024",
+							"longDescription": "Biopic que narrará la vida personal y profesional de la cantante y compositora Amy Winehouse, que comenzó como cantante de jazz para convertirse en una superestrella mundial de la música ganadora de varios premios Grammy. Su vida se truncó en 2011 a los 27 años provocada por una vida llena de consumo y abuso de alcohol y drogas.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+                                              {
+							"id": "",
+							"title": "MI VILLANO FAVORITO 4",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-01-29T02:32:18Z",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "http://vod.tuxchannel.mx/peliculas/720/despicable%20me%204%202024.mkv",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://fmglobo.com/u/fotografias/m/2024/6/20/f425x230-13709_27691_5050.jpg",
+							"shortDescription": "",
+							"releaseDate": "2024",
+							"longDescription": "Gru, Lucy y las niñas -Margo, Edith y Agnes- dan la bienvenida a un nuevo miembro en la familia: Gru Junior, que parece llegar con el propósito de ser un suplicio para su padre. Gru tendrá que enfrentarse en esta ocasión a su nueva némesis Maxime Le Mal y su sofisticada y malévola novia Valentina, lo que obligará a la familia a tener que darse a la fuga. Cuarta entrega de 'Gru, mi villano favorito",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "AMIGOS IMAGINARIOS (2024)",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2219731.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/05/17/amigos-imaginarios-2024.jpeg",
+							"shortDescription": "",
+							"releaseDate": "2024",
+							"longDescription": "Una niña pasa por una experiencia difícil y entonces empieza a ver a los amigos imaginarios de todo el mundo que se han ido quedando atrás a medida que sus amigos de la vida real han ido creciendo.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "peliculas_2_RSG",
+			"title": "LAS MEJORES PELICULAS",
+			"releaseDate": "2024",
+			"shortDescription": "PELICULAS",
+			"thumbnail": "https://enterados.pe/wp-content/uploads/2020/12/cine-clasico.jpg",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [{
+					"title": "RECIEN AGREGADO",
+					"episodes": [{
+							"id": "",
+							"title": "FRANCO ESCAMILLA: LADIES' MAN",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2217654.mp4",
+									"quality": "HD"
+								}],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://media.c5n.com/p/ffe0b4d63bf3d674fcf0f48003fef6ee/adjuntos/326/imagenes/000/268/0000268826/790x0/smart/franco-escamilla-ladies-man.png",
+							"shortDescription": "",
+							"releaseDate": "2024",
+							"longDescription": "Franco Escamilla takes the stage with tales of teenage romance gone wrong, featuring painfully long kisses and rockstar cameos with surprising outcomes.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "GUERRA CIVIL",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2217522.mp4",
+									"quality": "HD"
+								}],
+								"duration": 431,
+								"language": "en-us"
+							},
+							"thumbnail": "https://larepublica.cronosmedia.glr.pe/original/2024/04/13/661b410544910638d1405069.jpg",
+							"shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+							"releaseDate": "2024",
+							"longDescription": "En un futuro cercano, donde América está sumida en una cruenta guerra civil, un equipo de periodistas y fotógrafos de guerra emprenderá un viaje por carretera en dirección a Washington DC. Su misión: llegar antes de que las fuerzas rebeldes asalten la Casa Blanca y arrebaten el control al presidente de Estados Unidos.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "UN LUGAR TRANQUILO: DÍA UNO",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2222554.mp4",
+									"quality": "HD"
+								}],
+								"duration": 765,
+								"language": "en-us"
+							},
+							"thumbnail": "https://www.bizcochito.es/Films/Movil/tt13433802.webp",
+							"shortDescription": "",
+							"releaseDate": "2024",
+							"longDescription": "Una mujer llamada Sam trata de sobrevivir a una invasión en la ciudad de Nueva York por criaturas alienígenas sedientas de sangre con oídos ultrasónicos. Tercera entrega de la saga.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "DRAGON BALL SUPER: SUPER HERO",
+							"episodeNumber": 4,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2138494.mp4",
+									"quality": "HD"
+								}],
+								"duration": 280,
+								"language": "en-us"
+							},
+							"thumbnail": "https://i.blogs.es/dd5517/dragon-ball-super-2023/1366_2000.jpeg",
+							"shortDescription": "",
+							"releaseDate": "2024",
+							"longDescription": "Comienza con Trunks del Futuro viajando al pasado para entrenar nuevamente con Goku y Vegeta, pero misteriosamente se desvanece en medio del viaje. El hijo de Bulma se despierta en una prisión situada en un recóndito lugar del Universo, encerrado por el mismísimo Fu. Al estar escondido es muy posible que incluso Bills no conozca este lugar.Pero por suerte Goku y sus amigos se enteran de esto y emprenden el viaje a rescatar a Trunks. Este sitio también adelanta que el enemigo Fu también posee sus propias Esferas del Dragón. Además de otras reliquias que servirán para poder salir de ese planeta.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "COCO",
+							"episodeNumber": 5,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2135915.mp4",
+									"quality": "HD"
+								}],
+								"duration": 1899,
+								"language": "en-us"
+							},
+							"thumbnail": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/11/coco.jpg",
+							"shortDescription": "",
+							"releaseDate": "2024",
+							"longDescription": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "AQUAMAN Y EL REINO PERDIDO",
+							"episodeNumber": 6,
+							"content": {
+								"dateAdded": "2023",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2197307.mkv",
+									"quality": "HD"
+								}],
+								"duration": 819,
+								"language": "en-us"
+							},
+							"thumbnail": "https://radiomilleniumdealicantefm.com/wp-content/uploads/2023/12/tt9663764.webp",
+							"shortDescription": "",
+							"releaseDate": "2023",
+							"longDescription": "Al no poder derrotar a Aquaman la primera vez, Black Manta, todavía impulsado por la necesidad de vengar la muerte de su padre, no se detendrá ante nada para derrotar a Aquaman de una vez por todas. Esta vez Black Manta es más formidable que nunca y ejerce el poder del mítico Tridente Negro, que desata una fuerza antigua y malévola. Para derrotarlo, Aquaman recurrirá a su hermano encarcelado Orm, el ex rey de la Atlántida, para forjar una alianza improbable. Juntos, deben dejar de lado sus diferencias para proteger su reino y salvar a la familia de Aquaman, y al mundo, de una destrucción irreversible.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "LO MAS VISTO",
+					"episodes": [
+                                                     {
+							"id": "",
+							"title": "RADICAL",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2023",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2197748.mkv",
+									"quality": "HD"
+								}],
+								"duration": 381,
+								"language": "en-us"
+							},
+							"thumbnail": "https://cdn2.excelsior.com.mx/media/pictures/2023/10/18/3020436.jpg",
+							"shortDescription": "",
+							"releaseDate": "2023",
+							"longDescription": "En una ciudad fronteriza mexicana plagada de abandono, corrupción y violencia, un profesor frustrado prueba un nuevo método radical para romper la apatía de sus alumnos y desbloquear su curiosidad, su potencial... y puede que incluso su genialidad. Basada en una historia real.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "EL NIÑO Y LA GARZA",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2023",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2198307.mkv",
+									"quality": "HD"
+								}],
+								"duration": 1251,
+								"language": "en-us"
+							},
+							"thumbnail": "https://piedepagina.mx/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-25-at-1.21.49-AM.jpeg",
+							"shortDescription": "",
+							"releaseDate": "2023",
+							"longDescription": "La película muestra el crecimiento psicológico de un adolescente a través de interacciones con sus amigos y su tío. Está basada en el libro de 1937 del mismo nombre escrito por Genzaburo Yoshino.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "SONIDO DE LIBERTAD",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2023",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2210026.mkv",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://lavereda.com.mx/wp-content/uploads/2023/11/sonido.jpg",
+							"shortDescription": "SONIDO DE LIBERTAD",
+							"releaseDate": "2023",
+							"longDescription": "Tim Ballard, un exagente del gobierno de Estados Unidos, que decide renunciar a su trabajo para dedicar su vida a la lucha contra la explotación infantil.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "MADAME WEB",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2204651.mp4",
+									"quality": "HD"
+								}],
+								"duration": 2188,
+								"language": "en-us"
+							},
+							"thumbnail": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2024/01/madame-web-3268343.jpg",
+							"shortDescription": "",
+							"releaseDate": "2024",
+							"longDescription": "Cassandra Webb es una paramédica en Manhattan que podría tener habilidades clarividentes. Obligada a enfrentarse a sucesos que se han revelado de su pasado, crea una relación con tres jóvenes destinadas a tener un futuro poderoso... si consiguen sobrevivir a un presente mortal.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}]	
+					},
+{
+					"title": "MARVEL",
+					"episodes": [{
+							"id": "",
+							"title": "BLACK WIDOW",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2021",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "http://gpelis22.galaxytv.mx/ntv/movies/NegroTV/Peliculas/BlackWidow2021Latino.mkv",
+									"quality": "HD"
+								}],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://media.a24.com/p/d8100159bd3f970ade9a75bf4f08efff/adjuntos/296/imagenes/008/755/0008755469/1200x675/smart/disney-plus-viuda-negrapng.png",
+							"shortDescription": "BLACK WIDOW",
+							"releaseDate": "2021",
+							"longDescription": "Natasha Romanoff, alias Viuda Negra, se enfrenta a las partes más oscuras de su historia cuando surge una peligrosa conspiración con vínculos con su pasado. Perseguida por una fuerza que no se detendrá ante nada para acabar con ella, Natasha debe enfrentarse a su historia como espía y a las relaciones rotas que dejó a su paso mucho antes de convertirse en una Vengadora.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "VENOM: CARNAGE LIBERADO",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2021",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2129783.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://media.pilaradiario.com/p/094a94f6493ed4480657b758204f16e2/adjuntos/352/imagenes/100/105/0100105874/1200x675/smart/f800x450-121527_172973_5050png.png",
+							"shortDescription": "VENOM: CARNAGE LIBERADO",
+							"releaseDate": "2024",
+							"longDescription": "Eddie Brock y su simbionte Venom todavía están intentando descubrir cómo vivir juntos cuando un preso que está en el corredor de la muerte se infecta con un simbionte propio.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "Eternals",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2021",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "http://gpelis22.galaxytv.mx/ntv/PelisJuan/Ene22/15/3t3rn4ls.2021.hdrip.720p.latino.mkv",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/07/Eternals-Multiverse-Saga.png",
+							"shortDescription": "Eternals",
+							"releaseDate": "2021",
+							"longDescription": "Hace millones de años, los seres cósmicos conocidos como los Celestiales comenzaron a experimentar genéticamente con los humanos. Su intención era crear individuos superpoderosos que hicieran únicamente el bien, pero algo salió mal y aparecieron los Desviantes, destruyendo y creando el caos a su paso. Ambas razas se han enfrentado en una eterna lucha de poder a lo largo de la historia. En medio de esta guerra, Ikaris y Sersi tratarán de vivir su propia historia de amor.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "WOLVERINE: INMORTAL",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2131664.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://www.cope.es/blogs/palomitas-de-maiz/wp-content/uploads/sites/6/2022/07/cartel-lobezno-inmortal-2-720x353.jpg",
+							"shortDescription": "WOLVERINE: INMORTAL",
+							"releaseDate": "2024",
+							"longDescription": "Secuela de X Men: la decisión final. Lobezno llega a Japón para encontrarse con un viejo amigo al que salvó la vida hace años, y se ve envuelto en una conspiración que involucra a la yakuza y a los mutantes.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "X-MEN: PRIMERA GENERACIÓN",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2129786.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://es.web.img3.acsta.net/medias/nmedia/18/83/44/48/19723467.jpg",
+							"shortDescription": "X-MEN: PRIMERA GENERACIÓN",
+							"releaseDate": "2024",
+							"longDescription": "Comienzo de la saga de los X-Men, esta es una historia secreta que alude a conocidos acontecimientos mundiales. Antes de que los mutantes se mostraran al mundo, y antes de que cambiaran sus nombres por los de Profesor X y Magneto, Charles Xavier (James McAvoy) y Erik Lehnsherr (Michael Fassbender) eran dos jóvenes que descubrían sus poderes. No había animadversión alguna entre ellos, sino que les unía una sincera amistad y la decisión de trabajar juntos y entrenar a un grupo de jóvenes mutantes para evitar el Armagedón nuclear. Su enemigo común: el malvado Sebastian Shaw (Kevin Bacon), un humano con poderes con el que Erik tiene una cuenta pendiente.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "X-MEN: DÍAS DEL FUTURO PASADO",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2129785.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://www.lacabecita.com/wp-content/uploads/vlcsnap-2014-03-24-15h35m59s85.png",
+							"shortDescription": "X-MEN: DÍAS DEL FUTURO PASADO",
+							"releaseDate": "2024",
+							"longDescription": "Ambientada en la década de los 70, los miembros de la famosa Patrulla X tendrán que evitar un futuro apocalíptico en el que los mutantes luchan por sobrevivir en campos de concentración controlados por los temibles Centinelas. Para ello, los héroes del universo Marvel deberán unificar sus fuerzas dejando a un lado la creciente enemistad de los bandos liderados por Charles Xavier y Magneto. Trask Industries, la empresa encargada de crear a estos gigantescos cazamutantes, será el origen de todos sus problemas. ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "X-Men: Apocalipsis",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2016",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2129784.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://e.rpp-noticias.io/large/2016/05/18/462546_144190.jpg",
+							"shortDescription": "X-Men: Apocalipsis",
+							"releaseDate": "2016",
+							"longDescription": "Desde los albores de la civilización, fue adorado como un dios. Apocalypse, el primer y más poderoso mutante del universo X-Men de Marvel, acumuló los poderes de muchos otros mutantes, convirtiéndose en inmortal e invencible. Pero al despertar tras miles de años, se encuentra desilusionado con el mundo en que se encuentra y decide reclutar un equipo de mutantes poderosos, entre ellos a un descorazonado Magneto (Michael Fassbender), con el fin de limpiar la humanidad y crear una nueva orden mundial, sobre la cual él reinará.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "LOGAN: WOLVERINE",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2017",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2129770.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logan_-_Wolverine_logo.png/1200px-Logan_-_Wolverine_logo.png",
+							"shortDescription": "LOGAN: WOLVERINE",
+							"releaseDate": "2017",
+							"longDescription": "Sin sus poderes, por primera vez, Lobezno es verdaderamente vulnerable. Después de una vida de dolor y angustia, sin rumbo y perdido en el mundo donde los X-Men son leyenda, su mentor Charles Xavier lo convence de asumir una última misión: proteger a una joven que será la única esperanza para la raza mutante.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "EL HOMBRE ARAÑA 2",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2004",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2129761.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://i0.wp.com/www.murphysmultiverse.com/wp-content/uploads/2021/12/02_spider-man_2.jpg",
+							"shortDescription": "EL HOMBRE ARAÑA 2",
+							"releaseDate": "2004",
+							"longDescription": "Han pasado dos años desde que el tranquilo Peter Parker dejó a Mary Jane Watson, su gran amor, y decidió seguir asumir sus responsabilidades como Spider-Man. Peter debe afrontar nuevos desafíos mientras lucha contra el don y la maldición de sus poderes equilibrando sus dos identidades: el escurridizo superhéroe Spider-Man y el estudiante universitario.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "EL HOMBRE ARAÑA",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2002",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2129760.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://pics.filmaffinity.com/spider_man_2-462521348-large.jpg",
+							"shortDescription": "EL HOMBRE ARAÑA",
+							"releaseDate": "2002",
+							"longDescription": "Peter Parker es un joven y tímido estudiante que vive con su tía May y su tío Ben desde la muerte de sus padres. Un día es mordido por una araña que ha sido modificada genéticamente, descubriendo al día siguiente que posee unos poderes poco habituales: tiene la fuerza y agilidad de una araña.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "DOCTOR STRANGE: HECHICERO SUPREMO",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2129758.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://cdn.forbes.com.mx/2016/11/doctor-strange-trailer-poster-comic-con-e1478192869115.jpg",
+							"shortDescription": "DOCTOR STRANGE: HECHICERO SUPREMO",
+							"releaseDate": "2024",
+							"longDescription": "La vida del famoso neurocirujano Stephen Strange cambia radicalmente cuando un accidente le impide el uso de sus manos y se ve forzado a buscar una cura en un misterioso enclave. Inmediatamente aprende que no solo es un sanatorio... es también el frente de batalla contra oscuras fuerzas, y debe elegir entre volver a su antigua vida o defender al mundo como el más poderoso hechicero del momento.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "DOCTOR STRANGE EN EL MULTIVERSO DE LA LOCURA",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2129759.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/04/doctor-strange-multiverso-locura-2685811.jpg",
+							"shortDescription": "DOCTOR STRANGE EN EL MULTIVERSO DE LA LOCURA",
+							"releaseDate": "2024",
+							"longDescription": "Viaja a lo desconocido con el Doctor Strange, quien, con la ayuda de tanto antiguos como nuevos aliados místicos, recorre las complejas y peligrosas realidades alternativas del multiverso para enfrentarse a un nuevo y misterioso adversario.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "DEADPOOL",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2016",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2129757.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://i0.wp.com/lopezdoriga.com/wp-content/uploads/2017/01/deadpool.png",
+							"shortDescription": "DEADPOOL",
+							"releaseDate": "2016",
+							"longDescription": "Basado en el anti-héroe menos convencional de la Marvel, Deadpool narra el origen de un ex-operativo de la fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento adquiere poderes de curación rápida, adoptando Wade entonces el alter ego de Deadpool.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "DEADPOOL 2",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2018",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2129756.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoGRi9XjtSC2sqmrwnkglyX8Dr7.jpg",
+							"shortDescription": "DEADPOOL 2",
+							"releaseDate": "2018",
+							"longDescription": "Wade Wilson (Ryan Reynolds), mejor conocido como Deadpool, su nombre de batalla e identidad antiheroica, está de regreso con Deadpool 2 y en esta ocasión su misión será salvar a un chico llamado Russell (Julian Dennison) de las manos de un poderoso rival llamado Cable (Josh Brolin). En aras de dar cumplimiento a su tarea el antihéroe formará un grupo al cual pondrá el nombre de X-Force.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "CAPITÁN AMÉRICA: CIVIL WAR",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2016",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2129752.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6UTwUVFYWI8VPWo5GylnbZVhin.jpg",
+							"shortDescription": "CAPITÁN AMÉRICA: CIVIL WAR",
+							"releaseDate": "2016",
+							"longDescription": "Continúa la historia de “Avengers: Age of Ultron”, con Steve Rogers liderando un nuevo equipo de Vengadores en su esfuerzo por proteger a la humanidad. Tras otro incidente internacional relacionado con los Vengadores que ocasiona daños colaterales, la presión política fuerza a crear un sistema de registro y un cuerpo gubernamental para determinar cuándo se requiere los servicios del equipo. ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "PANTERA NEGRA",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2018",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2129750.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg",
+							"shortDescription": "PANTERA NEGRA",
+							"releaseDate": "2018",
+							"longDescription": "Después de los acontecimientos de Capitán América: Civil War, T'Challa vuelve a casa, la nación aislada y muy avanzada tecnológicamente de Wakanda, para ser proclamado Rey. Pero la reaparición de un viejo enemigo pone a prueba el temple de T'Challa como Rey y Black Panther ya que se ve arrastrado a un conflicto que pone en peligro todo el destino de Wakanda y del mundo.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "Vengadores: La Era de Ultrón",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2015",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2129748.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg",
+							"shortDescription": "Vengadores: La Era de Ultrón",
+							"releaseDate": "2015",
+							"longDescription": "Cuando Tony Stark intenta reactivar un programa caído en desuso cuyo objetivo es mantener la paz, las cosas empiezan a torcerse y los héroes más poderosos de la Tierra, incluyendo a Iron Man, Capitán América, Thor, El Increíble Hulk, Viuda Negra y Ojo de Halcón, tendrán que afrontar la prueba definitiva cuando el destino del planeta se ponga en juego. Cuando el villano Ultron emerge, le corresponderá a Los Vengadores detener sus terribles planes, que junto a incómodas alianzas llevarán a una inesperada acción que allanará el camino para una épica y única aventura.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "AVENGERS: ENDGAME",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2019",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2129747.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+							"shortDescription": "AVENGERS: ENDGAME",
+							"releaseDate": "2019",
+							"longDescription": "Después de los eventos devastadores de 'Vengadores: Infinity War', el universo está en ruinas debido a las acciones de Thanos. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar deshacer sus acciones y restaurar el orden en el universo de una vez por todas, sin importar cuáles sean las consecuencias.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "ANT-MAN: EL HOMBRE HORMIGA",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2015",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2129745.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwuE28gSXlLFLgueqMe9b7xKy1f.jpg",
+							"shortDescription": "ANT-MAN: EL HOMBRE HORMIGA",
+							"releaseDate": "2015",
+							"longDescription": "Armado con la asombrosa capacidad de reducir su tamaño a la dimensiones de un insecto, el estafador Scott Lang debe sacar a relucir al héroe que lleva dentro y ayudar a su mentor, el doctor Hank Pym, a proteger de una nueva generación de amenazas el secreto que se esconde tras el traje de Ant-Man, con un casco que le permite comunicarse con las hormigas.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "MADAME WEB",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2204651.mp4",
+									"quality": "HD"
+								}],
+								"duration": 2188,
+								"language": "en-us"
+							},
+							"thumbnail": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2024/01/madame-web-3268343.jpg",
+							"shortDescription": "",
+							"releaseDate": "2024",
+							"longDescription": "Cassandra Webb es una paramédica en Manhattan que podría tener habilidades clarividentes. Obligada a enfrentarse a sucesos que se han revelado de su pasado, crea una relación con tres jóvenes destinadas a tener un futuro poderoso... si consiguen sobrevivir a un presente mortal.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}]	
+					},
+				{
+					"title": "PEDIDOS",
+					"episodes": [
+						{
+							"id": "",
+							"title": "IN TIME",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2011",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/41860.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cX5gY6FFsJW6ZXi6PLB3zm0vHr.jpg",
+							"shortDescription": "IN TIME",
+							"releaseDate": "2011",
+							"longDescription": "Ambientada en una sociedad futura. El hallazgo de una fórmula contra el envejecimiento trae consigo no sólo superpoblación, sino también la transformación del tiempo en moneda de cambio, que permite sufragar tanto lujos como necesidades. Los ricos pueden vivir para siempre, pero los demás tendrán que negociar cada minuto de vida, y los pobres mueren jóvenes. Después de conseguir, por casualidad, una inmensa cantidad de tiempo",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "MEN OF HONOR",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2000",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/49805.mkv",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hO3jsfq2aa1jbE1p41okla9bEJ4.jpg",
+							"shortDescription": "MEN OF HONOR",
+							"releaseDate": "2000",
+							"longDescription": "La historia de Carl Brashear, un hombre que combatió el racismo y se convirtió en el primer oficial afroamericano de la armada americana. La acción se desarrolla durante más de 30 años, periodo en el que destaca su relación con Billy Sunday , un oficial rebelde de alta graduación y experto buceador que fue degradado por permitir la graduación de Brashear",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "Somewhere in time SUB",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "1967",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "http://gyourtv.galaxytv.mx/ntv/Juanelo/Peliculas/May21/4/19438.Somewhere.mkv",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://resizing.flixster.com/z92hLKhzZ6nBXkZ_TWrm2OSx_H0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7382_v_h10_bn.jpg",
+							"shortDescription": "Somewhere in time SUB",
+							"releaseDate": "1967",
+							"longDescription": "DESCRIPCION",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "Líneas enemigas",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2020",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/51206.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://www.youplanetpictures.com/wp-content/uploads/2023/07/AMAZON-1920x1080-17.jpg",
+							"shortDescription": "Líneas enemigas",
+							"releaseDate": "2020",
+							"longDescription": "En el paisaje congelado y devastado por la guerra de la Polonia ocupada durante la Segunda Guerra Mundial, un equipo de comandos aliados son enviados en una misión mortal detrás de las líneas enemigas para extraer un científico espacial de las manos de los nazis.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+                                               {
+							"id": "",
+							"title": "EL CAMINO DE HILL",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2023",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2207021.mp4",
+									"quality": "HD"
+								}],
+								"duration": 1380,
+								"language": "en-us"
+							},
+							"thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/44/bf/e9/44bfe9da-c3ed-8e63-52cd-55afc4201ec4/mzl.uevocoqg.png/1200x675mf.jpg",
+							"shortDescription": "",
+							"releaseDate": "2023",
+							"longDescription": "La extraordinaria historia real del increíble viaje de Ricky Hill para jugar en las Grandes Ligas de béisbol.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "ASESINO SIN MEMORIA",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2022",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2123183.mp4",
+									"quality": "HD"
+								}],
+								"language": "en-us"
+							},
+							"thumbnail": "https://www.smashradio.com.mx/wp-content/uploads/asesino-sin-memoria-resena-img-1.jpg",
+							"shortDescription": "ASESINO SIN MEMORIA",
+							"releaseDate": "2022",
+							"longDescription": "Alex, un asesino a sueldo, descubre que se ha convertido en un objetivo después de que se niega a completar un trabajo para una peligrosa organización criminal. Con el sindicato del crimen y el FBI persiguiéndolo, Alex tiene las habilidades para mantenerse a la vanguardia, excepto por una cosa: está luchando con una pérdida de memoria severa que afecta todos sus movimientos. Alex debe cuestionar cada una de sus acciones y en quién puede confiar en última instancia.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "ABIGAIL",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2215494.mp4",
+									"quality": "HD"
+								}],
+								"duration": 1561,
+								"language": "en-us"
+							},
+							"thumbnail": "https://imgmedia.larepublica.pe/1200x630/larepublica/original/2024/04/16/661ed4f301747679e46e5bd5.jpg",
+							"shortDescription": "",
+							"releaseDate": "2024",
+							"longDescription": "A una banda de delincuentes se les ha encargado secuestrar a Abigail, una bailarina de doce años hija de una poderosa figura del inframundo. Su misión requiere también vigilarla durante la noche para poder cobrar un rescate de 50 millones de dólares. En una mansión aislada, los captores comienzan a desaparecer, uno por uno, y descubren, para su creciente horror, que la pequeña niña con la que están encerrados no es normal y está mostrando su verdadera naturaleza.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "MINE",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2016",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/45391.mkv",
+									"quality": "HD"
+								}],
+								"duration": 2481,
+								"language": "en-us"
+							},
+							"thumbnail": "https://www.diariodevenusville.com/wp-content/uploads/2017/01/MINE-ficha.jpg",
+							"shortDescription": "",
+							"releaseDate": "2016",
+							"longDescription": "Tras el fallido intento de asesinato durante una misión, el francotirador estadounidense Mike Stevens (Armie Hammer) pisa una mina terrestre en medio del desierto de Afganistán. Aislado y perdido en mitad de la nada, queda atrapado y dramáticamente amenazado por el explosivo y por los peligros del desierto de arena. Mike deberá sobrevivir a la naturaleza hostil que le rodea, luchando contra el sol abrasador, la deshidratación, el cansancio y los depredadores. Y sobre todo, deberá hacer frente al peligroso efecto psicológico de la soledad mientras permanece inmóvil en la arena.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "GODZILLA Y KONG",
+							"episodeNumber": 4,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2216485.mp4",
+									"quality": "HD"
+								}],
+								"duration": 1567,
+								"language": "en-us"
+							},
+							"thumbnail": "https://e.rpp-noticias.io/xlarge/2024/03/18/573157_1554528.webp",
+							"shortDescription": "",
+							"releaseDate": "2024",
+							"longDescription": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "",
+							"title": "RIVALES",
+							"episodeNumber": 5,
+							"content": {
+								"dateAdded": "2024",
+								"videos": [{
+									"videoType": "AUTODETECT",
+									"url": "https://sdmx.vip:443/movie/aresvodrestream/aresvodrestream/2217008.mp4",
+									"quality": "HD"
+								}],
+								"duration": 848,
+								"language": "en-us"
+							},
+							"thumbnail": "https://www.mondosonoro.com/wp-content/uploads/2024/05/rivales-cartel-de-la-pelicula.jpg",
+							"shortDescription": "",
+							"releaseDate": "2024",
+							"longDescription": "Casada con un campeón con una mala racha de derrotas, la estrategia de Tashi para la redención de su marido da un giro sorprendente cuando éste debe enfrentarse a Patrick - su antiguo mejor amigo y ex novio de Tashi. A medida que sus pasados y presentes chocan, y las tensiones se disparan, Tashi debe preguntarse a sí misma cuánto le costará ganar.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+"CINEMA PREMIUM": [
+    {
+      "longDescription": "HBO",
+      "thumbnail": "https://i.imgur.com/r6MQosu.jpg?1",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/245",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "HBO 2",
+      "thumbnail": "https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://15.235.51.133:8081/LATINO%7CHBO2R/LATINO%7CHBO2R/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "HBO FAMILY",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://live.detodotvplay.com:8080/xfbRaQUObq/7yhJBrgpT7/50",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "HBO PLUS",
+      "thumbnail": "https://cdn.mitvstatic.com/channels/mx_hbo-plus-mexico_m.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://live.detodotvplay.com:8080/xfbRaQUObq/7yhJBrgpT7/51",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "HBO SIGNATURE",
+      "thumbnail": "https://1.bp.blogspot.com/-jsXerJmFHK0/Xas8qIXagZI/AAAAAAAAAaE/c3OP25KYkFUA2IGufDn-M7eyR0JPdSkXgCLcBGAsYHQ/s200/31.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/RENATO%7CLATHBOSIGNATURE/RENATO%7CLATHBOSIGNATURE/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "HBO POP",
+      "thumbnail": "https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/RENATO%7CLATHBOPOP/RENATO%7CLATHBOPOP/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "HBO MUNDI",
+      "thumbnail": "https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://162.19.112.213:8081/RENATO%7CLATHBOMUNDI/RENATO%7CLATHBOMUNDI/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "UNIVERSAL CINEMA",
+      "thumbnail": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1414587199_UniversalCinema-Claro.png.34bdc6633205429349f7a9bb8c9f0a51.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/264",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "UNIVERSAL CRIME",
+      "thumbnail": "https://iili.io/JKgZg87.md.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://live.detodotvplay.com:8080/xfbRaQUObq/7yhJBrgpT7/68250",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "UNIVERSAL PREMIER",
+      "thumbnail": "https://logos.xbots.com.mx/UPremiere.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 5,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://live.detodotvplay.com:8080/xfbRaQUObq/7yhJBrgpT7/68249",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "UNIVERSAL COMEDY",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOlqKNBEFsz-1n0OVo1bvJgmv0uELsmHBfN_8SAeaq2e1Uz2XnNSJAH_5-mqzJuc3ths05AceOa6c-ieCR0wAkCa3J4BNRQoMKO04s0VFwyR8C6GjsTeO5E6VwbV8SCAVWV_LnggsnN1FCxmmpvAse4ZTT_NJiRDgXxtEYXuJ8vGL7aAb0isqE9UUI/s1600/universal-comedy.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "feature"
+      ],
+      "id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
+      "shortDescription": "",
+      "title": "AZTECA UNO",
+      "content": {
+        "duration": 98,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://live.detodotvplay.com:8080/xfbRaQUObq/7yhJBrgpT7/68251",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+	"MUSICA": [{
+			"longDescription": "VH1",
+			"thumbnail": "https://1000logos.net/wp-content/uploads/2022/09/VH1-Logo-2013.png",
+			"releaseDate": "2024",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"shortDescription": "",
+			"title": "",
+			"content": {
+				"duration": 713,
+				"videos": [{
+					"videoType": "AUTODETECT",
+					"url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/285",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+    {
+      "longDescription": "BANDAMAX",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/d/dd/BANDAMAX.jpg",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/284",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "TELEHIT",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/TLHIT_logo.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/283",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "MTV HITS",
+      "thumbnail": "https://www.kindpng.com/picc/m/247-2470234_mtv-hits-hd-png-download.png",
+      "releaseDate": "",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-streaming-overview",
+      "shortDescription": "",
+      "title": "",
+      "content": {
+        "duration": 100,
+        "videos": [
+          {
+            "videoType": "AUTODETECT",
+            "url": "http://channels.dreamplay.lat:8080/t6rjfpunq8/2xxzgnw3he/286",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+		{
+			"longDescription": "TELEHIT",
+			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/TLHIT_logo.png",
+			"releaseDate": "2",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "",
+			"shortDescription": "",
+			"title": "A",
+			"content": {
+				"duration": 713,
+				"videos": [{
+					"videoType": "AUTODETECT",
+					"url": "https://zonamovie.live:8443/ZonaMovie2023*/GihGIn70tW/824323.ts",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "BANDAMAX",
+			"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/d/dd/BANDAMAX.jpg",
+			"releaseDate": "20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "",
+			"shortDescription": "",
+			"title": "",
+			"content": {
+				"duration": 576,
+				"videos": [{
+					"videoType": "AUTODETECT",
+					"url": "http://15.235.51.133:8081/LATINO%7CBANDAMAX/LATINO%7CBANDAMAX/playlist.m3u8",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2"
+			}
+		}
+	]
+
+}
